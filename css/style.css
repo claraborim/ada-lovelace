@@ -89,3 +89,23 @@ button {
     border-radius: 3px;
     padding: 2px 20px;
 }
+
+div#grace:hover a,
+div#grace:focus-within a {
+    color: white;
+}
+
+div#dorothy:hover a,
+div#dorothy:focus-within a {
+    color: white;
+}
+
+div#margaret:hover a,
+div#margaret:focus-within a {
+    color: white;
+}
+
+div#katherine:hover a,
+div#katherine:focus-within a {
+    color: white;
+}
